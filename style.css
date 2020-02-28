@@ -28,7 +28,7 @@ section.main{
   grid-column-start: 1;
   grid-column-end: 4;
   grid-row-start: 2;
-  grid-row-end: 5;
+  grid-row-end: 4;
   border: 2px solid black;
   margin-left:1.2em;
 }
